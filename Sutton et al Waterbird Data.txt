@@ -1,0 +1,844 @@
+Site Name	Total Number of Walkers	Walker Rate	Species	Flock Size	SD	AD	Response Distance	Towards/ Away	Seperation Distance	On Shore/In Water	Distance from Edge
+ALBERT Park	79	30.58064516	Black Swan	1	42	17	17	Towards	0.5	On Margin	0.2
+ALBERT Park	79	30.58064516	Black Swan	3	29	23	21	Towards	0	On Shore	32
+ALBERT Park	79	30.58064516	Black Swan	1	57	40	22	Towards	3	In Water	30
+ALBERT Park	79	30.58064516	Black Swan	1	57	48	32	Towards	0.5	In Water	12
+ALBERT Park	79	30.58064516	Black Swan	1	34	34	34	Towards	6	In Water	4
+ALBERT Park	79	30.58064516	Black Swan	6	63	37	37	Towards	1	On Margin	0.2
+ALBERT Park	79	30.58064516	Black Swan	2	40	40	40	Towards	1	In Water	14
+ALBERT Park	79	30.58064516	Black Swan	2	40	40	40	Towards	6	In Water	3
+ALBERT Park	79	30.58064516	Black Swan	2	42	42	42	Towards	1.5	In Water	2
+ALTONA Boatramp	35	70	Black Swan	1	65	51	37	Towards	12	In Water	35
+ALTONA Boatramp	35	70	Black Swan	2	65	51	50	Towards	12	In Water	45
+AVALON Beach	0	0	Black Swan	2	170	119	113	Away	113	In Water	10
+BEGOLA Wetlands	5	7.692307692	Black Swan	2	108	102	80	Away	76	In Water	7
+BERWICK Springs	44	25.14285714	Black Swan	1	55	36	33	Away	28	In Water	9
+BERWICK Springs	44	25.14285714	Black Swan	1	70	52	48	Away	56	In Water	50
+CAIRNLEA Lake	33	36	Black Swan	1	44	43	43	Towards	6	In Water	37
+CAROLINE Lake	73	58.4	Black Swan	1	27	8	8	Towards	0	In Water	2
+CAROLINE Lake	73	58.4	Black Swan	1	14	14	12	Towards	1	On Shore	15
+CHEETHAM Wetlands	0	0	Black Swan	1	250	250	220	Away	220	In Water	50
+CHERRY Lake	32	27.42857143	Black Swan	1	51	45	7	Towards	9	On Margin	0.2
+CHERRY Lake	32	27.42857143	Black Swan	3	42	25	18	Towards	2	In Water	3
+CONNEWARRE Lake (North)	0	0	Black Swan	6	226	215	215	Away	215	In Water	214
+CONNEWARRE Lake (North)	0	0	Black Swan	5	293	277	271	Away	271	In Water	270
+CONNEWARRE Lake (South)	0	0	Black Swan	8	152	150	145	Away	145	On Shore	1
+CONNEWARRE Lake (South)	0	0	Black Swan	2	183	165	165	Away	165	In Water	7
+DEVILBEND Reservoir (North)	1	0.413793103	Black Swan	1	132	14	12	Away	12	In Water	4
+DEVILBEND Reservoir (North)	1	0.413793103	Black Swan	1	46	17	16	Away	16	In Water	7
+DEVILBEND Reservoir (North)	1	0.413793103	Black Swan	1	42	35	28	Away	22	In Water	8
+DEVILBEND Reservoir (South)	0	0	Black Swan	2	208	140	106	Away	106	In Water	119
+DEVILBEND Reservoir (South)	0	0	Black Swan	3	158	146	144	Away	144	In Water	116
+EEL RACE Drain	1	2	Black Swan	6	37	24	19	Away	19	In Water	5
+EEL RACE Drain	1	2	Black Swan	2	33	30	26	Away	26	In Water	5
+FEDERATION TRAIL Creek	1	3	Black Swan	1	55	55	37	Towards	12	In Water	7
+FROG HOLLOW Reserve	44	26.4	Black Swan	1	57	45	40	Towards	3	In Water	0.5
+GATEWAY Sanctuary	12	15.65217391	Black Swan	2	45	43	43	Towards	8	In Water	4
+GATEWAY Sanctuary	12	15.65217391	Black Swan	3	56	56	56	Towards	3	In Water	12
+HAMPTON PARK Wetlands	31	24.8	Black Swan	2	31	25	4	Towards	4	On Shore	0.5
+HUNTERS ROAD Wetland	2	4	Black Swan	1	49	49	49	Towards	2	In Water	49
+HUNTERS ROAD Wetland	2	4	Black Swan	2	146	146	146	Towards	2	In Water	146
+JACK ROPER Reserve	2	4	Black Swan	2	31	27	7	Towards	5	In Water	5
+JONES CREEK Wetland	37	44.4	Black Swan	1	22	22	14	Towards	8	In Water	9
+KARRAROCK Park	84	28	Black Swan	1	42	3	3	Away	3	In Water	1
+KARRAROCK Park	84	28	Black Swan	1	51	37	19	Away	19	On Margin	0.2
+KOROROIT Creek FORD	3	6	Black Swan	1	37	19	6	Away	6	In Water	5
+KOROROIT Creek FORD	3	6	Black Swan	1	55	35	23	Away	23	In Water	15
+KOROROIT Creek FORD	3	6	Black Swan	8	47	35	24	Away	24	On Shore	0.5
+Lake VICTORIA	2	2.666666667	Black Swan	4	97	97	94	Away	94	In Water	92
+Lake VICTORIA	2	2.666666667	Black Swan	4	116	103	98	Away	98	In Water	100
+LAKESIDE Lake	118	83.29411765	Black Swan	1	48	6	3	Towards	3	In Water	4
+LAKESIDE Lake	118	83.29411765	Black Swan	3	21	13	10	Towards	1	On Shore	1
+LAKESIDE Lake	118	83.29411765	Black Swan	2	88	88	88	Towards	6	In Water	7
+LAVERTON Creek (Mouth)	7	12	Black Swan	2	77	68	59	Away	59	In Water	20
+LOGAN Lake	58	43.5	Black Swan	2	42	41	41	Towards	2	In Water	40
+LOGAN Lake	58	43.5	Black Swan	5	88	86	86	Towards	1	In Water	86
+LORNE Lake Reserve	4	3.692307692	Black Swan	1	53	33	25	Away	25	On Shore	2
+MANNA GUM Waters	0	0	Black Swan	1	46	46	32	Away	32	In Water	16
+McCLOUD'S Waterhole	0	0	Black Swan	1	35	32	32	Away	32	In Water	1
+MILLS Park	31	17.71428571	Black Swan	2	106	100	8	Away	8	On Shore	13
+MILLS Park	31	17.71428571	Black Swan	5	37	37	37	Towards	0.5	In Water	37
+MILLS Park	31	17.71428571	Black Swan	2	47	46	45	Towards	16	In Water	8
+MO MORAN Reserve	14	42	Black Swan	2	30	23	14	Towards	2	In Water	5
+NEWPORT Lakes	46	18.4	Black Swan	2	17	17	17	Towards	0	In Water	1
+ORNAMENTAL Lake	198	148.5	Black Swan	1	28	12	9	Towards	1	In Water	9
+ORNAMENTAL Lake	198	148.5	Black Swan	1	19	18	18	Towards	1	In Water	18
+QUEENS Park	70	105	Black Swan	1	18	18	18	Towards	0.5	In Water	1
+QUEENS Park	70	105	Black Swan	1	32	32	32	Towards	7	In Water	5
+REEDY Lake	0	0	Black Swan	3	106	32	32	Away	32	On Shore	35
+REEDY Lake	0	0	Black Swan	4	149	75	75	Away	75	In Water	13
+RICKETTS POINT	44	37.71428571	Black Swan	7	35	5	2	Away	2	In Water	3
+RICKETTS POINT	44	37.71428571	Black Swan	1	105	17	12	Away	12	In Water	7
+RICKETTS POINT	44	37.71428571	Black Swan	3	133	93	93	Towards	3	In Water	22
+RICKETTS POINT	44	37.71428571	Black Swan	2	143	103	103	Towards	2	In Water	25
+SANCTUARY Lakes	41	8.482758621	Black Swan	6	64	25	3	Towards	0.5	On Shore	1
+SANCTUARY Lakes	41	8.482758621	Black Swan	2	26	21	16	Towards	7	In Water	0.5
+SANCTUARY Lakes	41	8.482758621	Black Swan	2	27	27	27	Towards	0.5	In Water	5
+SANCTUARY Lakes	41	8.482758621	Black Swan	6	28	28	28	Towards	0	On Shore	2
+SANCTUARY Lakes	41	8.482758621	Black Swan	4	33	33	33	Towards	3	On Margin	0
+SANCTUARY Lakes	41	8.482758621	Black Swan	1	40	40	40	Towards	7	In Water	1
+SANCTUARY Lakes	41	8.482758621	Black Swan	1	125	60	54	Away	54	In Water	15
+SANCTUARY Lakes	41	8.482758621	Black Swan	3	65	65	65	Towards	2	In Water	2
+SANDHURST Lakes	1	1.333333333	Black Swan	5	24	10	10	Towards	2	In Water	0.5
+SANDHURST Lakes	1	1.333333333	Black Swan	1	23	23	23	Towards	3	In Water	5
+SHEARWATER Meadow	11	18.85714286	Black Swan	2	34	34	34	Towards	6	In Water	25
+ST LEONARDS Lake	18	18	Black Swan	4	135	78	60	Away	60	In Water	58
+STATION Waters	27	40.5	Black Swan	2	52	51	51	Towards	1	On Shore	1
+TATTERSON Lake	29	18.31578947	Black Swan	1	61	48	31	Towards	9	In Water	7
+TAYLORS Lakes	36	24	Black Swan	2	64	63	63	Towards	1	In Water	62
+THE POINT	2	4.615384615	Black Swan	3	75	15	15	Towards	1	In Water	5
+THE POINT	2	4.615384615	Black Swan	2	70	25	24	Away	24	In Water	12
+THE POINT	2	4.615384615	Black Swan	9	39	30	29	Away	29	In Water	1
+TROUPS CREEK Wetlands	5	2.4	Black Swan	1	59	57	57	Away	57	In Water	18
+TROUPS CREEK Wetlands	5	2.4	Black Swan	2	83	80	62	Away	62	In Water	32
+TROUPS CREEK Wetlands	5	2.4	Black Swan	1	93	93	73	Away	73	In Water	67
+TROUPS CREEK Wetlands	5	2.4	Black Swan	2	123	123	107	Away	107	In Water	25
+TROUPS CREEK Wetlands (North)	16	16	Black Swan	1	26	25	20	Away	20	In Water	20
+TRUGANINA Swamp	0	0	Black Swan	2	106	54	28	Away	28	On Margin	0
+WARMIES	10	15	Black Swan	7	28	14	11	Away	11	In Water	2
+WARMIES	10	15	Black Swan	13	16	16	16	Towards	0	On Shore	12
+WATERDEGE WAY Lake	13	26	Black Swan	2	58	49	47	Towards	5	In Water	8
+WATERDEGE WAY Lake	13	26	Black Swan	2	72	70	70	Towards	3	In Water	67
+WENDOUREE Lake	131	87.33333333	Black Swan	1	49	6	0.2	Towards	0	On Shore	0.5
+WENDOUREE Lake	131	87.33333333	Black Swan	3	36	35	15	Towards	1	In Water	3
+WENDOUREE Lake	131	87.33333333	Black Swan	1	28	21	18	Away	18	On Shore	1
+WENDOUREE Lake	131	87.33333333	Black Swan	4	36	32	27	Towards	1	In Water	1
+WESTERN TREATMENT PLANT (Borrie)	0	0	Black Swan	3	88	66	46	Away	46	On Shore	7
+WESTERN TREATMENT PLANT (Borrie)	0	0	Black Swan	5	93	84	73	Away	73	On Shore	3
+WESTERN TREATMENT PLANT (Borrie)	0	0	Black Swan	2	135	107	93	Away	93	In Water	25
+WESTERN TREATMENT PLANT (Mid)	0	0	Black Swan	1	72	65	43	Away	38	On Shore	1
+WESTERN TREATMENT PLANT (Mid)	0	0	Black Swan	1	140	107	52	Away	52	On Shore	2
+WESTERN TREATMENT PLANT (Mid)	0	0	Black Swan	2	107	71	67	Away	67	In Water	5
+WESTERN TREATMENT PLANT (Mid)	0	0	Black Swan	1	131	80	69	Away	69	In Water	120
+WESTERN TREATMENT PLANT (Mid)	0	0	Black Swan	5	200	200	200	Away	200	On Shore	8
+WESTERN TREATMENT PLANT (North)	0	0	Black Swan	7	138	90	72	Away	72	On Shore	1
+WESTERN TREATMENT PLANT (North)	0	0	Black Swan	2	165	131	117	Away	117	On Shore	1
+WESTERN TREATMENT PLANT (South)	0	0	Black Swan	1	24	23.5	23	Away	23	In Water	10
+WESTERN TREATMENT PLANT (South)	0	0	Black Swan	4	109	96	84	Away	84	In Water	20
+ALBERT Park	79	30.58064516	Domestic Duck	2	38	34	20	Towards	1	On Shore	0.5
+BLACKBURN Lake	13	22.28571429	Domestic Duck	1	40	40	40	Towards	7	In Water	10
+BLUE WATERS Lake	30	17.14285714	Domestic Duck	1	62	29	19	Towards	18	On Shore	6
+BLUE WATERS Lake	30	17.14285714	Domestic Duck	1	31	27	27	Towards	4	In Water	22
+BLUE WATERS Lake	30	17.14285714	Domestic Duck	9	52	52	52	Towards	0.5	In Water	20
+BUNDRAP Park	34	27.2	Domestic Duck	5	32	32	32	Towards	1	On Shore	0.5
+CAIRNLEA Lake	33	36	Domestic Duck	8	18	17	17	Towards	11	In Water	8
+CAROLINE Lake	73	58.4	Domestic Duck	2	28	14	5	Away	5	On Shore	2
+COLBURG Lake	22	10.56	Domestic Duck	3	34	34	10	Towards	4	On Shore	5
+COLBURG Lake	22	10.56	Domestic Duck	2	39	30	30	Towards	2	On Shore	3
+DENYER Reserve	24	36	Domestic Duck	1	43	27	24	Towards	4	In Water	12
+EDWARDES Lake	57	38	Domestic Duck	2	18	18	18	Towards	3	On Shore	12
+EDWARDES Lake	57	38	Domestic Duck	8	36	26	21	Towards	2	In Water	5
+EDWARDES Lake	57	38	Domestic Duck	1	33	33	30	Towards	2	In Water	10
+EMERALD GOLF CLUB Lake	0	0	Domestic Duck	2	25	25	25	Towards	0.5	In Water	2
+FROG HOLLOW Reserve	44	26.4	Domestic Duck	2	43	43	43	Towards	6	In Water	43
+FROG HOLLOW Reserve	44	26.4	Domestic Duck	2	45	43	43	Towards	8	In Water	6
+HUNTERS ROAD Wetland	2	4	Domestic Duck	1	82	82	82	Towards	6	In Water	82
+JACK ROPER Reserve	2	4	Domestic Duck	12	56	56	56	Towards	7	In Water	5
+JONES CREEK Wetland	37	44.4	Domestic Duck	1	28	28	15	Away	15	In Water	1
+JONES CREEK Wetland	37	44.4	Domestic Duck	1	22	22	22	Towards	6	In Water	2
+KARRAROCK Park	84	28	Domestic Duck	1	22	13	5	Away	5	In Water	6
+LAKESIDE Lake	118	83.29411765	Domestic Duck	5	23	20	15	Away	15	On Shore	4
+LAKESIDE Lake	118	83.29411765	Domestic Duck	4	17	17	17	Towards	2	In Water	15
+LAKEWOOD Lakes	4	8	Domestic Duck	2	22	22	18	Away	18	In Water	2
+LILYDALE Lake	235	108.4615385	Domestic Duck	1	4	4	4	Towards	2	In Water	3
+LOGAN Lake	58	43.5	Domestic Duck	5	23	23	23	Towards	3	In Water	12
+MELBOURNE WATER Wetlands	0	0	Domestic Duck	4	37	37	37	Towards	12	In Water	30
+MILLS Park	31	17.71428571	Domestic Duck	3	39	39	39	Towards	17	In Water	39
+MORNINGTON CIVIC Reserve	22	26.4	Domestic Duck	5	47	22	17	Towards	4	In Water	2
+NEWPORT Lakes	46	18.4	Domestic Duck	1	33	33	33	Towards	7	On Margin	0
+PABLOO AVENUE Wetland	2	4.8	Domestic Duck	1	36	9	7	Both	6	On Margin	0.2
+QUEENS Park	70	105	Domestic Duck	2	29	27	27	Towards	7	In Water	0.2
+RINGWOOD Lake	27	32.4	Domestic Duck	2	18	18	14	Towards	9	In Water	2
+SANCTUARY Lakes	41	8.482758621	Domestic Duck	7	50	10	3	Towards	5	On Shore	0.5
+SHEARWATER Meadow	11	18.85714286	Domestic Duck	1	16	16	16	Towards	6	In Water	1
+ST KILDA BOTANICAL Gardens	31	74.4	Domestic Duck	1	54	42	11	Both	10	On Margin	0.2
+ST LEONARDS Lake	18	18	Domestic Duck	2	77	77	77	Towards	6	In Water	3
+STATION Waters	27	40.5	Domestic Duck	7	49	48	48	Towards	5	On Shore	0.5
+SUTTON Lake	47	29.68421053	Domestic Duck	5	14	11	10	Away	10	On Margin	0.3
+TATTERSON Lake	29	18.31578947	Domestic Duck	1	60	5	5	Towards	4	In Water	5
+TIRHARUAN Lake	26	31.2	Domestic Duck	2	38	38	38	Towards	4	On Shore	0.5
+WATERDEGE WAY Lake	13	26	Domestic Duck	2	63	60	60	Towards	24	In Water	54
+ALBERT Park	79	30.58064516	Dusky Moorhen	3	19	6	2	Towards	2	On Shore	12
+ALBERT Park	79	30.58064516	Dusky Moorhen	1	43	34	26	Towards	6	On Shore	9
+BLUE WATERS Lake	30	17.14285714	Dusky Moorhen	1	45	7	7	Away	7	On Shore	8
+BLUE WATERS Lake	30	17.14285714	Dusky Moorhen	1	42	18	12	Away	12	On Shore	6
+BLUE WATERS Lake	30	17.14285714	Dusky Moorhen	3	57	32	14	Towards	7	On Shore	3
+BLUE WATERS Lake	30	17.14285714	Dusky Moorhen	3	32	32	32	Towards	6	On Shore	8
+BRODIES Lakes	0	0	Dusky Moorhen	3	32	26	24	Away	24	On Shore	5
+BUNDRAP Park	34	27.2	Dusky Moorhen	2	8	8	8	Towards	0.5	In Water	8
+BUNDRAP Park	34	27.2	Dusky Moorhen	1	19	10	9	Both	9	On Margin	0.2
+BUNDRAP Park	34	27.2	Dusky Moorhen	4	14	14	14	Towards	13	On Shore	0.5
+CAIRNLEA Lake	33	36	Dusky Moorhen	2	48	26	8	Away	8	On Shore	2
+CAIRNLEA Lake	33	36	Dusky Moorhen	6	32	30	30	Towards	4	In Water	27
+CANDLEBARK Walk	18	19.63636364	Dusky Moorhen	4	75	27	26	Both	12	On Shore	3
+CANDLEBARK Walk	18	19.63636364	Dusky Moorhen	4	43	34	34	Towards	5	In Water	16
+CHERRY Lake	32	27.42857143	Dusky Moorhen	2	44	10	10	Towards	6	On Shore	0.5
+CHERRY Lake	32	27.42857143	Dusky Moorhen	2	56	22	12	Towards	3	In Water	2
+COLBURG Lake	22	10.56	Dusky Moorhen	5	14	12	10	Both	3	On Shore	7
+COLBURG Lake	22	10.56	Dusky Moorhen	7	31	31	31	Towards	2	On Shore	5
+DENYER Reserve	24	36	Dusky Moorhen	1	16	15	15	Towards	12	In Water	15
+DENYER Reserve	24	36	Dusky Moorhen	1	31	17	17	Away	17	On Shore	4
+EDWARDES Lake	57	38	Dusky Moorhen	2	29	14	8	Away	8	On Shore	10
+EMERALD Lake	52	41.6	Dusky Moorhen	1	8	8	8	Away	8	On Shore	10
+FEDERATION TRAIL Creek	1	3	Dusky Moorhen	2	82	47	42	Away	42	On Margin	0
+FROG HOLLOW Reserve	44	26.4	Dusky Moorhen	3	21	19	14	Away	14	On Shore	8
+FROG HOLLOW Reserve	44	26.4	Dusky Moorhen	2	54	54	45	Away	45	In Water	44
+GATEWAY Sanctuary	12	15.65217391	Dusky Moorhen	1	22	14	14	Away	14	In Water	1
+HAMPTON PARK Wetlands	31	24.8	Dusky Moorhen	1	16	16	12	Away	9	On Shore	9
+HAMPTON PARK Wetlands	31	24.8	Dusky Moorhen	1	22	22	22	Towards	6	In Water	4
+HAMPTON PARK Wetlands	31	24.8	Dusky Moorhen	6	75	56	42	Away	42	On Shore	8
+HUNTERS ROAD Wetland	2	4	Dusky Moorhen	2	48	48	48	Towards	9	In Water	48
+HUNTINGDALE Flood Retarding Basin	20	17.14285714	Dusky Moorhen	1	35	38	36	Away	36	On Shore	2
+HUNTINGDALE Flood Retarding Basin	20	17.14285714	Dusky Moorhen	3	49	39	37	Away	37	On Shore	9
+HUNTINGDALE Flood Retarding Basin	20	17.14285714	Dusky Moorhen	2	60	58	50	Away	50	In Water	19
+HUNTINGDALE Flood Retarding Basin	20	17.14285714	Dusky Moorhen	2	67	65	65	Away	65	On Shore	3
+JACK ROPER Reserve	2	4	Dusky Moorhen	2	35	22	10	Away	10	On Shore	2
+JONES CREEK Wetland	37	44.4	Dusky Moorhen	4	20	18	12	Both	6	On Margin	0.2
+JONES CREEK Wetland	37	44.4	Dusky Moorhen	2	15	14	14	Both	13	In Water	5
+LAKESIDE Lake	118	83.29411765	Dusky Moorhen	2	41	13	10	Both	2	On Shore	10
+LAKESIDE Lake	118	83.29411765	Dusky Moorhen	4	21	16	13	Towards	5	On Shore	12
+LAKESIDE Lake	118	83.29411765	Dusky Moorhen	1	20	15	14	Towards	2	On Shore	4
+LAKEWOOD Lakes	4	8	Dusky Moorhen	2	26	24	24	Towards	23	On Shore	12
+LILYDALE Lake	235	108.4615385	Dusky Moorhen	1	20	5	3	Away	3	On Shore	6
+LILYDALE Lake	235	108.4615385	Dusky Moorhen	3	25	25	17	Away	17	On Shore	6
+LILYDALE Lake	235	108.4615385	Dusky Moorhen	1	25	22	19	Away	19	On Shore	5
+LOGAN Lake	58	43.5	Dusky Moorhen	3	16	16	12	Towards	8	In Water	6
+LOGAN Lake	58	43.5	Dusky Moorhen	2	25	23	23	Towards	2	On Shore	9
+LOGAN Lake	58	43.5	Dusky Moorhen	1	28	26	26	Towards	1	In Water	18
+LOGAN Lake	58	43.5	Dusky Moorhen	4	36	31	31	Towards	2	On Shore	2
+LOGAN Lake	58	43.5	Dusky Moorhen	3	32	32	32	Towards	2	In Water	32
+LORNE Lake Reserve	4	3.692307692	Dusky Moorhen	2	30	28	12	Away	12	In Water	6
+LORNE Lake Reserve	4	3.692307692	Dusky Moorhen	1	85	72	65	Away	65	On Shore	6
+McCLOUD'S Waterhole	0	0	Dusky Moorhen	4	25	24	18	Away	18	In Water	6
+MELBOURNE WATER Wetlands	0	0	Dusky Moorhen	3	38	34	29	Away	29	On Shore	1
+MELBOURNE WATER Wetlands	0	0	Dusky Moorhen	3	55	50	39	Away	39	On Shore	0.5
+MILLS Park	31	17.71428571	Dusky Moorhen	2	28	26	26	Away	26	In Water	0.5
+MILLS Park	31	17.71428571	Dusky Moorhen	6	37	37	37	Towards	1	In Water	37
+MILLS Park	31	17.71428571	Dusky Moorhen	2	64	60	53	Towards	30	In Water	26
+MORNINGTON CIVIC Reserve	22	26.4	Dusky Moorhen	1	19	10	9	Away	9	On Margin	0.2
+MORNINGTON CIVIC Reserve	22	26.4	Dusky Moorhen	1	36	28	26	Away	26	On Shore	4
+NARR-MAEN Wetlands	6	7.2	Dusky Moorhen	4	26	24	13	Away	13	On Shore	9
+NARR-MAEN Wetlands	6	7.2	Dusky Moorhen	4	48	33	15	Towards	15.5	In Water	6
+ORNAMENTAL Lake	198	148.5	Dusky Moorhen	5	23	12	12	Towards	2	On Shore	4
+PABLOO AVENUE Wetland	2	4.8	Dusky Moorhen	2	31	27	22	Both	21	In Water	3
+PABLOO AVENUE Wetland	2	4.8	Dusky Moorhen	3	37	33	26	Away	26	On Margin	0.2
+POINT LONSDALE Reserve	1	2.4	Dusky Moorhen	8	17	14	10	Towards	4	In Water	9
+QUEENS Park	70	105	Dusky Moorhen	5	14	14	14	Towards	0.2	On Shore	10
+QUEENS Park	70	105	Dusky Moorhen	5	40	40	40	Towards	0	On Shore	2
+RIFLE RANGE South	5	2.307692308	Dusky Moorhen	1	17	7	3	Away	3	On Shore	5
+RIFLE RANGE South	5	2.307692308	Dusky Moorhen	2	25	14	12	Away	12	In Water	3
+RINGWOOD Lake	27	32.4	Dusky Moorhen	2	16	12	4	Away	4	In Water	0.5
+SANCTUARY Lakes	41	8.482758621	Dusky Moorhen	7	50	10	3	Towards	5	On Shore	0.5
+SANDHURST Lakes	1	1.333333333	Dusky Moorhen	1	17	17	17	Away	17	In Water	2
+SANDHURST Lakes	1	1.333333333	Dusky Moorhen	1	32	32	32	Towards	5	On Shore	2
+SHANKLAND Reserve	0	0	Dusky Moorhen	2	32	22	21	Away	21	On Shore	11
+SHANKLAND Reserve	0	0	Dusky Moorhen	1	53	39	37	Towards	5	In Water	1
+SHEARWATER Meadow	11	18.85714286	Dusky Moorhen	1	24	23	23	Towards	9	On Shore	1
+SHEARWATER Meadow	11	18.85714286	Dusky Moorhen	2	34	29	29	Towards	4	On Shore	0.5
+ST KILDA BOTANICAL Gardens	31	74.4	Dusky Moorhen	1	16	9	7	Away	7	On Shore	1
+ST KILDA BOTANICAL Gardens	31	74.4	Dusky Moorhen	1	34	18	8	Away	8	On Margin	0.2
+ST LEONARDS Lake	18	18	Dusky Moorhen	3	30	15	12	Away	12	On Shore	6
+ST LEONARDS Lake	18	18	Dusky Moorhen	2	39	30	26	Both	13	On Shore	8
+ST LEONARDS Lake	18	18	Dusky Moorhen	2	34	30	30	Away	30	On Shore	7
+STATION Waters	27	40.5	Dusky Moorhen	2	22	22	22	Towards	6	In Water	1
+STATION Waters	27	40.5	Dusky Moorhen	1	48	48	34	Away	34	On Shore	6
+STATION Waters	27	40.5	Dusky Moorhen	2	46	46	46	Towards	8	In Water	35
+SUTTON Lake	47	29.68421053	Dusky Moorhen	9	31	20	6	Away	6	On Shore	3
+SUTTON Lake	47	29.68421053	Dusky Moorhen	1	32	21	19	Away	19	On Shore	2
+TATTERSON Lake	29	18.31578947	Dusky Moorhen	1	45	32	27	Away	27	On Shore	9
+TAYLORS Lakes	36	24	Dusky Moorhen	2	11	9	9	Towards	6	In Water	5
+TAYLORS Lakes	36	24	Dusky Moorhen	1	31	24	21	Away	21	On Shore	1
+TAYLORS Lakes	36	24	Dusky Moorhen	1	47	45	45	Towards	11	In Water	9
+TIRHARUAN Lake	26	31.2	Dusky Moorhen	1	18	18	18	Towards	3	On Shore	27
+WATERDEGE WAY Lake	13	26	Dusky Moorhen	1	20	18	18	Away	18	On Shore	3
+WENDOUREE Lake	131	87.33333333	Dusky Moorhen	1	38	9	9	Towards	1	On Shore	5
+ALBERT Park	79	30.58064516	Eurasian Coot	2	35	31	6	Both	2	On Shore	7
+ALBERT Park	79	30.58064516	Eurasian Coot	2	44	23	23	Towards	2	In Water	30
+ALBERT Park	79	30.58064516	Eurasian Coot	2	28	28	28	Towards	4	On Shore	8
+ALBERT Park	79	30.58064516	Eurasian Coot	2	31	31	31	Towards	1	In Water	31
+ALBERT Park	79	30.58064516	Eurasian Coot	6	38	38	38	Towards	0.5	On Margin	0.2
+ALBERT Park	79	30.58064516	Eurasian Coot	1	41	41	41	Towards	4	In Water	32
+ALBERT Park	79	30.58064516	Eurasian Coot	6	72	72	72	Towards	1	In Water	6
+BERWICK Springs	44	25.14285714	Eurasian Coot	18	47	35	31	Away	31	On Shore	28
+BERWICK Springs	44	25.14285714	Eurasian Coot	12	74	67	67	Away	67	On Shore	1.5
+BLACKBURN Lake	13	22.28571429	Eurasian Coot	3	27	21	9	Both	9	In Water	1
+BLACKBURN Lake	13	22.28571429	Eurasian Coot	3	37	37	32	Both	3	In Water	2
+BLUE WATERS Lake	30	17.14285714	Eurasian Coot	14	41	23	19	Away	19	On Shore	8
+BLUE WATERS Lake	30	17.14285714	Eurasian Coot	3	49	33	25	Away	25	On Shore	1
+BLUE WATERS Lake	30	17.14285714	Eurasian Coot	7	40	29	28	Away	28	On Shore	1
+BLUE WATERS Lake	30	17.14285714	Eurasian Coot	12	42	41	41	Towards	17	On Shore	5
+BLUE WATERS Lake	30	17.14285714	Eurasian Coot	16	48	48	48	Towards	1	In Water	23
+BLUE WATERS Lake	30	17.14285714	Eurasian Coot	2	64	64	64	Towards	15	In Water	58
+BRODIES Lakes	0	0	Eurasian Coot	20	40	36	22	Towards	8	On Shore	0.5
+BRODIES Lakes	0	0	Eurasian Coot	2	32	26	25	Away	25	In Water	5
+BRODIES Lakes	0	0	Eurasian Coot	1	32	32	32	Towards	3	In Water	2
+BUNDRAP Park	34	27.2	Eurasian Coot	12	29	22	20	Towards	5	In Water	1
+BUNDRAP Park	34	27.2	Eurasian Coot	28	32	32	32	Towards	0.5	In Water	1
+CAIRNLEA Lake	33	36	Eurasian Coot	2	35	27	27	Towards	7	In Water	30
+CAIRNLEA Lake	33	36	Eurasian Coot	1	43	37	37	Towards	9	In Water	33
+CAIRNLEA Lake	33	36	Eurasian Coot	8	44	42	42	Towards	8	In Water	37
+CANDLEBARK Walk	18	19.63636364	Eurasian Coot	1	24	23	23	Towards	1	In Water	8
+CANDLEBARK Walk	18	19.63636364	Eurasian Coot	1	75	29	26	Both	9	In Water	2
+CANDLEBARK Walk	18	19.63636364	Eurasian Coot	2	43	43	43	Towards	1	In Water	27
+CARDINA Lake	11	14.66666667	Eurasian Coot	2	37	37	37	Towards	2	In Water	10
+CARDINA Lake	11	14.66666667	Eurasian Coot	12	58	58	58	Towards	4	On Shore	0.5
+CAROLINE Lake	73	58.4	Eurasian Coot	26	20	12	12	Towards	1	In Water	2
+CAROLINE Lake	73	58.4	Eurasian Coot	8	43	42	42	Towards	2	In Water	40
+CAROLINE Lake	73	58.4	Eurasian Coot	8	56	56	56	Towards	6	In Water	56
+CARRIBBEAN Lake	0	0	Eurasian Coot	1	35	19	12	Away	12	In Water	5
+CARRIBBEAN Lake	0	0	Eurasian Coot	2	47	43	14	Away	14	In Water	5
+CARRIBBEAN Lake	0	0	Eurasian Coot	5	58	49	44	Away	44	On Shore	7
+CHEETHAM Wetlands	0	0	Eurasian Coot	3	31	17	13	Away	13	On Shore	1
+CHEETHAM Wetlands	0	0	Eurasian Coot	2	38	34	27	Away	27	On Shore	0.2
+CHERRY Lake	32	27.42857143	Eurasian Coot	13	60	18	13	Both	3	On Shore	7
+COLBURG Lake	22	10.56	Eurasian Coot	2	42	23	3	Both	2	On Shore	12
+COLBURG Lake	22	10.56	Eurasian Coot	17	32	11	10	Away	10	On Shore	6
+COLBURG Lake	22	10.56	Eurasian Coot	2	27	22	20	Both	2	On Shore	2
+DENYER Reserve	24	36	Eurasian Coot	2	18	17	17	Towards	13	In Water	17
+DENYER Reserve	24	36	Eurasian Coot	2	52	36	35	Towards	21	In Water	8
+DEVILBEND Reservoir (North)	1	0.413793103	Eurasian Coot	2	131	15	11	Away	11	On Shore	0.5
+DEVILBEND Reservoir (North)	1	0.413793103	Eurasian Coot	3	97	25	19	Away	19	In Water	8
+DEVILBEND Reservoir (North)	1	0.413793103	Eurasian Coot	2	60	34	20	Away	20	In Water	25
+DEVILBEND Reservoir (North)	1	0.413793103	Eurasian Coot	8	80	28	22	Away	22	On Shore	0.2
+DEVILBEND Reservoir (North)	1	0.413793103	Eurasian Coot	4	49	30	30	Away	30	In Water	15
+DEVILBEND Reservoir (North)	1	0.413793103	Eurasian Coot	7	50	25	34	Away	24	On Margin	0.2
+EDWARDES Lake	57	38	Eurasian Coot	5	14	5.5	5	Away	5	On Shore	6
+EDWARDES Lake	57	38	Eurasian Coot	6	29	14	8	Away	8	On Shore	3
+EDWARDES Lake	57	38	Eurasian Coot	4	34	15	15	Towards	0.5	In Water	7
+EDWARDES Lake	57	38	Eurasian Coot	4	24	17	16	Away	16	In Water	10
+EDWARDES Lake	57	38	Eurasian Coot	25	23	23	23	Towards	0.2	On Shore	7
+EEL RACE Drain	1	2	Eurasian Coot	3	30	27	27	Away	27	In Water	3
+EMERALD GOLF CLUB Lake	0	0	Eurasian Coot	1	27	27	27	Towards	7	On Shore	2
+EMERALD Lake	52	41.6	Eurasian Coot	2	17	8	6	Towards	3	In Water	0.5
+EMERALD Lake	52	41.6	Eurasian Coot	10	15	15	15	Towards	0.5	On Shore	4
+EMERALD Lake	52	41.6	Eurasian Coot	1	18	17	17	Away	17	In Water	2.5
+FEDERATION TRAIL Creek	1	3	Eurasian Coot	4	52	15	12	Away	12	In Water	6
+FEDERATION TRAIL Creek	1	3	Eurasian Coot	1	55.5	37	21	Away	21	In Water	1.5
+FLORA AND FAUNA Reserve	0	0	Eurasian Coot	1	60	40	40	Away	40	In Water	12
+FROG HOLLOW Reserve	44	26.4	Eurasian Coot	2	30	16	16	Towards	6	In Water	6
+FROG HOLLOW Reserve	44	26.4	Eurasian Coot	8	58	56	56	Towards	4	In Water	2
+FROG HOLLOW Reserve	44	26.4	Eurasian Coot	16	57	57	57	Towards	4	In Water	1
+FROG HOLLOW Reserve	44	26.4	Eurasian Coot	7	66	66	66	Towards	5	In Water	2
+GATEWAY Sanctuary	12	15.65217391	Eurasian Coot	6	27	19	19	Away	12	In Water	4
+GATEWAY Sanctuary	12	15.65217391	Eurasian Coot	1	34	34	28	Away	28	In Water	8
+HAMPTON PARK Wetlands	31	24.8	Eurasian Coot	3	71	45	39	Towards	4	In Water	4
+HUNTERS ROAD Wetland	2	4	Eurasian Coot	15	22	22	22	Towards	0.5	In Water	22
+HUNTERS ROAD Wetland	2	4	Eurasian Coot	12	52	52	52	Towards	1	In Water	52
+HUNTINGDALE Flood Retarding Basin	20	17.14285714	Eurasian Coot	1	16	12	9	Away	9	In Water	7
+HUNTINGDALE Flood Retarding Basin	20	17.14285714	Eurasian Coot	12	45	15	11	Towards	5	In Water	9
+HUNTINGDALE Flood Retarding Basin	20	17.14285714	Eurasian Coot	8	50	39	36	Away	36	In Water	6
+JACK ROPER Reserve	2	4	Eurasian Coot	37	20	16	7	Both	5	On Shore	11
+JACK ROPER Reserve	2	4	Eurasian Coot	11	35	18	11	Both	13	In Water	2
+JACK ROPER Reserve	2	4	Eurasian Coot	28	43	43	43	Towards	5	On Shore	2
+JELLS Park	58	38.66666667	Eurasian Coot	2	34	19	10	Away	10	On Shore	0.2
+JELLS Park	58	38.66666667	Eurasian Coot	1	48	47	45	Towards	3	In Water	50
+JONES CREEK Wetland	37	44.4	Eurasian Coot	4	42	26	24	Towards	8	In Water	14
+JONES CREEK Wetland	37	44.4	Eurasian Coot	22	55	51	51	Towards	6	In Water	45
+KARRAROCK Park	84	28	Eurasian Coot	2	48	18	5	Towards	5	In Water	2
+KARRAROCK Park	84	28	Eurasian Coot	5	20	15	13	Towards	3	On Margin	0.2
+KARRAROCK Park	84	28	Eurasian Coot	2	28	28	28	Towards	7	In Water	0.5
+KARRAROCK Park	84	28	Eurasian Coot	2	41	32	30	Away	30	In Water	0.6
+KOROROIT Creek FORD	3	6	Eurasian Coot	3	53	30	9	Away	9	In Water	15
+KOROROIT Creek FORD	3	6	Eurasian Coot	2	38	14	13	Away	13	In Water	5
+Lake VICTORIA	2	2.666666667	Eurasian Coot	2	88	86	86	Away	86	In Water	84
+Lake VICTORIA (EMILY STREET)	1	2.4	Eurasian Coot	7	65	65	65	Towards	8	In Water	60
+LAKESIDE Lake	118	83.29411765	Eurasian Coot	16	16	16	16	Towards	2	In Water	16
+LAKESIDE Lake	118	83.29411765	Eurasian Coot	11	33	26	22	Towards	2	In Water	27
+LAKESIDE Lake	118	83.29411765	Eurasian Coot	33	25	23	23	Towards	0.5	In Water	2
+LAKESIDE Lake	118	83.29411765	Eurasian Coot	18	27	27	27	Towards	1	In Water	18
+LAKESIDE Lake	118	83.29411765	Eurasian Coot	9	42	42	42	Towards	2	In Water	40
+LAKEWOOD Lakes	4	8	Eurasian Coot	2	16	16	16	Towards	8	In Water	13
+LAKEWOOD Lakes	4	8	Eurasian Coot	2	19	18	18	Towards	16	In Water	5
+LILYDALE Lake	235	108.4615385	Eurasian Coot	3	9	5	3	Away	3	On Shore	7
+LILYDALE Lake	235	108.4615385	Eurasian Coot	2	6	6	6	Away	6	In Water	0.5
+LILYDALE Lake	235	108.4615385	Eurasian Coot	2	18	14	11	Away	11	On Shore	10
+LILYDALE Lake	235	108.4615385	Eurasian Coot	22	21	21	21	Towards	2	In Water	2
+LOGAN Lake	58	43.5	Eurasian Coot	8	21	20	20	Towards	4	In Water	3
+LOGAN Lake	58	43.5	Eurasian Coot	9	25	22	22	Towards	2	On Shore	9
+LOGAN Lake	58	43.5	Eurasian Coot	2	30	28	28	Towards	2	In Water	28
+LOGAN Lake	58	43.5	Eurasian Coot	4	38	33	33	Towards	2	On Shore	4
+LOGAN Lake	58	43.5	Eurasian Coot	1	47	47	47	Towards	3	In Water	46
+LORNE Lake Reserve	4	3.692307692	Eurasian Coot	1	48	43	39	Away	39	In Water	12
+LORNE Lake Reserve	4	3.692307692	Eurasian Coot	12	90	67	67	Away	67	On Shore	15
+LORNE Lake Reserve	4	3.692307692	Eurasian Coot	6	87	76	73	Away	73	On Shore	5
+LYSTERFEILD Lake	26	19.5	Eurasian Coot	5	20	15	7	Away	7	On Shore	12
+LYSTERFEILD Lake	26	19.5	Eurasian Coot	1	25	22	18	Both	15	In Water	2
+LYSTERFEILD Lake	26	19.5	Eurasian Coot	23	20	23	22	Away	22	On Shore	5
+MANNA GUM Waters	0	0	Eurasian Coot	1	30	17	17	Away	17	In Water	3
+MANNA GUM Waters	0	0	Eurasian Coot	16	34	32	32	Away	32	On Shore	6
+MANNA GUM Waters	0	0	Eurasian Coot	5	36	36	35	Away	35	In Water	5
+MANNA GUM Waters	0	0	Eurasian Coot	17	56	56	56	Towards	12	In Water	48
+McCLOUD'S Waterhole	0	0	Eurasian Coot	1	8	8	8	Towards	1	In Water	2
+McCLOUD'S Waterhole	0	0	Eurasian Coot	1	32	18	17	Away	17	On Margin	0.2
+McCLOUD'S Waterhole	0	0	Eurasian Coot	1	31	30	22	Away	22	In Water	4
+MELBOURNE WATER Wetlands	0	0	Eurasian Coot	1	57	47	41	Away	41	In Water	20
+MILLS Park	31	17.71428571	Eurasian Coot	2	30	23	22	Away	22	In Water	6
+MILLS Park	31	17.71428571	Eurasian Coot	13	29	28	28	Towards	3	In Water	2
+MILLS Park	31	17.71428571	Eurasian Coot	52	35	35	35	Towards	0.5	In Water	35
+MILLS Park	31	17.71428571	Eurasian Coot	1	47	43	43	Towards	36	In Water	35
+MILLS Park	31	17.71428571	Eurasian Coot	1	62	58	54	Towards	11	In Water	52
+MORNINGTON CIVIC Reserve	22	26.4	Eurasian Coot	35	16	12	12	Away	12	On Shore	14
+MORNINGTON CIVIC Reserve	22	26.4	Eurasian Coot	8	30	13	12	Away	12	On Shore	8
+MORNINGTON CIVIC Reserve	22	26.4	Eurasian Coot	2	21	16	16	Both	12	In Water	0.5
+NAMATJIRA Lake	34	40.8	Eurasian Coot	7	38	9	7	Away	7	On Shore	7
+NAMATJIRA Lake	34	40.8	Eurasian Coot	2	12	12	7	Away	7	In Water	3
+NAMATJIRA Lake	34	40.8	Eurasian Coot	3	24	19	14	Towards	9	In Water	6
+NARR-MAEN Wetlands	6	7.2	Eurasian Coot	1	36	35	23	Away	23	On Shore	8
+NEWPORT Lakes	46	18.4	Eurasian Coot	1	13	11	8	Towards	1	In Water	0.5
+NEWPORT Lakes	46	18.4	Eurasian Coot	1	9	9	9	Towards	3	In Water	1.5
+NEWPORT Lakes	46	18.4	Eurasian Coot	3	12	11	9	Away	9	In Water	4
+NEWPORT Lakes	46	18.4	Eurasian Coot	3	32	24	12	Away	12	On Shore	10
+NEWPORT Lakes	46	18.4	Eurasian Coot	1	15	15	15	Towards	9	In Water	6
+NEWPORT Lakes	46	18.4	Eurasian Coot	1	23	23	23	Towards	4	In Water	1
+NEWPORT Lakes	46	18.4	Eurasian Coot	2	30	30	30	Towards	2	In Water	49
+NEWPORT Lakes	46	18.4	Eurasian Coot	1	34	34	34	Towards	4	In Water	1
+NEWPORT Lakes	46	18.4	Eurasian Coot	2	34	34	34	Towards	28	In Water	34
+NEWPORT Lakes	46	18.4	Eurasian Coot	2	143	143	143	Towards	2	In Water	50
+ORNAMENTAL Lake	198	148.5	Eurasian Coot	2	29	10	10	Towards	1	In Water	3
+PABLOO AVENUE Wetland	2	4.8	Eurasian Coot	2	16	16	16	Towards	8	In Water	10
+PABLOO AVENUE Wetland	2	4.8	Eurasian Coot	2	38	37	37	Towards	36	In Water	3
+PLENTY GORGE Park	3	3	Eurasian Coot	3	46	45	45	Away	45	On Shore	0.5
+PLENTY GORGE Park	3	3	Eurasian Coot	2	64	63	63	Away	63	In Water	32
+POINT LONSDALE Reserve	1	2.4	Eurasian Coot	1	18	16	12	Towards	8	In Water	9
+QUEENS Park	70	105	Eurasian Coot	18	24	19	15	Towards	1	On Shore	7
+QUEENS Park	70	105	Eurasian Coot	6	28	28	28	Towards	6	In Water	18
+QUEENS Park	70	105	Eurasian Coot	22	29	29	29	Towards	0.5	In Water	2
+RIFLE RANGE South	5	2.307692308	Eurasian Coot	3	12	8	5	Away	5	In Water	7
+RIFLE RANGE South	5	2.307692308	Eurasian Coot	1	15	9	5	Away	5	In Water	3
+RIFLE RANGE South	5	2.307692308	Eurasian Coot	3	10	9	8	Away	8	In Water	0.5
+RIFLE RANGE South	5	2.307692308	Eurasian Coot	3	45	23	13	Away	13	In Water	1
+RIFLE RANGE South	5	2.307692308	Eurasian Coot	10	28	28	20	Away	20	In Water	5
+RIFLE RANGE South	5	2.307692308	Eurasian Coot	7	64	45	20	Away	20	In Water	10
+RIFLE RANGE South	5	2.307692308	Eurasian Coot	5	60	43	31	Away	31	On Margin	0
+RINGWOOD Lake	27	32.4	Eurasian Coot	1	28	28	28	Towards	18	In Water	25
+SANCTUARY Lakes	41	8.482758621	Eurasian Coot	16	14	6	5	Away	5	On Shore	8
+SANCTUARY Lakes	41	8.482758621	Eurasian Coot	15	32	12	7	Away	7	On Shore	15
+SANCTUARY Lakes	41	8.482758621	Eurasian Coot	10	8	8	8	Towards	1.5	On Shore	20
+SANCTUARY Lakes	41	8.482758621	Eurasian Coot	5	59	19	15	Towards	7	In Water	8
+SANCTUARY Lakes	41	8.482758621	Eurasian Coot	14	66	26	23	Away	23	In Water	0.5
+SANDHURST Lakes	1	1.333333333	Eurasian Coot	5	7	7	7	Towards	2	In Water	2
+SANDHURST Lakes	1	1.333333333	Eurasian Coot	1	37	37	27	Towards	8	In Water	35
+SANDHURST Lakes	1	1.333333333	Eurasian Coot	16	32	32	32	Towards	2	In Water	2
+SHANKLAND Reserve	0	0	Eurasian Coot	2	59	58	58	Towards	15	In Water	16
+SHEARWATER Meadow	11	18.85714286	Eurasian Coot	12	17	15	15	Towards	7	In Water	12
+ST LEONARDS Lake	18	18	Eurasian Coot	1	39	30	27	Towards	25	On Shore	7
+ST LEONARDS Lake	18	18	Eurasian Coot	5	43	31	30	Away	30	On Shore	9
+ST LEONARDS Lake	18	18	Eurasian Coot	23	41	41	41	Towards	8	In Water	23
+STATION Waters	27	40.5	Eurasian Coot	3	52	39	39	Towards	8	In Water	39
+STATION Waters	27	40.5	Eurasian Coot	23	50	50	50	Towards	2	In Water	45
+SUTTON Lake	47	29.68421053	Eurasian Coot	3	11	9	8	Away	8	In Water	1
+SUTTON Lake	47	29.68421053	Eurasian Coot	6	49	14	9	Away	9	On Shore	5
+SUTTON Lake	47	29.68421053	Eurasian Coot	6	31	21	19	Away	19	On Shore	2
+TATTERSON Lake	29	18.31578947	Eurasian Coot	2	60	7	7	Towards	3	In Water	8
+TATTERSON Lake	29	18.31578947	Eurasian Coot	3	32	25	24	Towards	10	In Water	15
+TATTERSON Lake	29	18.31578947	Eurasian Coot	1	27	27	27	Away	27	In Water	3
+TATTERSON Lake	29	18.31578947	Eurasian Coot	1	49	44	36	Away	36	On Shore	8
+TAYLORS Lakes	36	24	Eurasian Coot	18	42	19	11	Towards	9	In Water	5
+TAYLORS Lakes	36	24	Eurasian Coot	2	37	31	29	Towards	27.5	In Water	7
+TAYLORS Lakes	36	24	Eurasian Coot	26	67	66	66	Towards	4	In Water	63
+TAYLORS Lakes	36	24	Eurasian Coot	11	76	75	75	Towards	4	In Water	70
+THE BRIARS Historical Park	0	0	Eurasian Coot	2	29	28	28	Away	28	In Water	28
+TIRHARUAN Lake	26	31.2	Eurasian Coot	2	9	9	9	Towards	2	On Shore	24
+TIRHARUAN Lake	26	31.2	Eurasian Coot	9	44	44	44	Towards	3	On Shore	40
+TROUPS CREEK Wetlands	5	2.4	Eurasian Coot	3	36	21	15	Away	15	In Water	8
+TROUPS CREEK Wetlands	5	2.4	Eurasian Coot	2	21	21	20.5	Away	20.5	In Water	8
+TROUPS CREEK Wetlands	5	2.4	Eurasian Coot	3	61	51	47	Away	47	In Water	25
+TROUPS CREEK Wetlands (North)	16	16	Eurasian Coot	12	52	42	40	Away	40	In Water	10
+WATERDEGE WAY Lake	13	26	Eurasian Coot	7	26	25	25	Towards	4	In Water	3
+WATERDEGE WAY Lake	13	26	Eurasian Coot	16	47	47	47	Towards	6	In Water	40
+WENDOUREE Lake	131	87.33333333	Eurasian Coot	4	17	8	5	Away	5	On Shore	3
+WENDOUREE Lake	131	87.33333333	Eurasian Coot	6	36	9	7	Towards	2	In Water	2
+WENDOUREE Lake	131	87.33333333	Eurasian Coot	2	22	21	21	Towards	7	On Shore	12
+WESTERN TREATMENT PLANT (Borrie)	0	0	Eurasian Coot	1	52	44	38	Away	38	In Water	12
+WESTERN TREATMENT PLANT (Borrie)	0	0	Eurasian Coot	3	63	61	58	Away	58	On Shore	4
+WESTERN TREATMENT PLANT (Borrie)	0	0	Eurasian Coot	7	114	87	85	Away	85	On Shore	6
+WESTERN TREATMENT PLANT (Mid)	0	0	Eurasian Coot	5	32	24	5	Away	5	On Margin	0
+WESTERN TREATMENT PLANT (Mid)	0	0	Eurasian Coot	2	51	39	32	Away	32	On Margin	0.2
+WESTERN TREATMENT PLANT (Mid)	0	0	Eurasian Coot	12	73	71	66	Away	66	On Shore	1
+WESTERN TREATMENT PLANT (South)	0	0	Eurasian Coot	4	98	49	44	Away	44	In Water	10
+YAMMERBOOK NATURE Reserve	0.8	2.4	Eurasian Coot	3	51	51	51	Towards	9	In Water	9
+YAMMERBOOK NATURE Reserve	0.8	2.4	Eurasian Coot	2	75	62	62	Towards	9	On Margin	0.2
+YAMMERBOOK NATURE Reserve	0.8	2.4	Eurasian Coot	1	68	68	68	Towards	8	On Shore	5
+ALBERT Park	79	30.58064516	Pacfic Black Duck	1	13	11	11	Towards	3	On Margin	0.2
+ALBERT Park	79	30.58064516	Pacfic Black Duck	2	13	13	13	Towards	3	On Shore	6
+ALBERT Park	79	30.58064516	Pacfic Black Duck	2	49	28	13	Towards	6	On Shore	7
+ALBERT Park	79	30.58064516	Pacfic Black Duck	2	34	23	21	Towards	1	In Water	0.2
+ALBERT Park	79	30.58064516	Pacfic Black Duck	1	48	27	27	Towards	2	On Margin	0.2
+BEGOLA Wetlands	5	7.692307692	Pacfic Black Duck	4	62	57	57	Away	57	In Water	58
+BERWICK Springs	44	25.14285714	Pacfic Black Duck	2	29	16	10	Away	10	In Water	5
+BERWICK Springs	44	25.14285714	Pacfic Black Duck	9	36	36	36	Towards	14	On Shore	0.5
+BLACKBURN Lake	13	22.28571429	Pacfic Black Duck	5	27	19	7	Away	7	In Water	5
+BLACKBURN Lake	13	22.28571429	Pacfic Black Duck	11	37	37	29	Both	4	In Water	5
+BLUE WATERS Lake	30	17.14285714	Pacfic Black Duck	2	46	10	7	Towards	5	In Water	2
+BLUE WATERS Lake	30	17.14285714	Pacfic Black Duck	3	71	17	15	Away	15	On Shore	0.5
+BLUE WATERS Lake	30	17.14285714	Pacfic Black Duck	2	42	41	41	Towards	5	In Water	40
+BRODIES Lakes	0	0	Pacfic Black Duck	2	29	29	29	Towards	4	In Water	2
+BRODIES Lakes	0	0	Pacfic Black Duck	2	48	39	34	Away	34	In Water	9
+BUNDRAP Park	34	27.2	Pacfic Black Duck	8	31	31	31	Towards	0.5	In Water	2
+BUNDRAP Park	34	27.2	Pacfic Black Duck	2	62	62	62	Towards	8	In Water	3
+CAIRNLEA Lake	33	36	Pacfic Black Duck	2	45	25	7	Both	17	In Water	3
+CAIRNLEA Lake	33	36	Pacfic Black Duck	4	32	31	31	Towards	6	In Water	20
+CANDLEBARK Walk	18	19.63636364	Pacfic Black Duck	2	24	24	24	Towards	2	In Water	4
+CANDLEBARK Walk	18	19.63636364	Pacfic Black Duck	2	57	57	57	Towards	6	In Water	24
+CARDINA Lake	11	14.66666667	Pacfic Black Duck	3	40	40	40	Towards	3	In Water	3
+CARDINA Lake	11	14.66666667	Pacfic Black Duck	1	60	58	58	Towards	3	In Water	58
+CAROLINE Lake	73	58.4	Pacfic Black Duck	3	46	45	45	Towards	3	In Water	2
+CAROLINE Lake	73	58.4	Pacfic Black Duck	3	57	56	56	Towards	6	In Water	25
+CHEETHAM Wetlands	0	0	Pacfic Black Duck	2	44	44	38	Away	38	On Margin	0.2
+CHERRY Lake	32	27.42857143	Pacfic Black Duck	8	49	8	7	Away	7	On Margin	0
+CHERRY Lake	32	27.42857143	Pacfic Black Duck	4	24	21	18	Away	18	In Water	7
+CHERRY Lake	32	27.42857143	Pacfic Black Duck	4	94	35	26	Towards	15	In Water	6
+COLBURG Lake	22	10.56	Pacfic Black Duck	6	38	4	1	Away	1	On Shore	2
+COLBURG Lake	22	10.56	Pacfic Black Duck	10	38	14	3	Away	3	On Shore	3
+COLBURG Lake	22	10.56	Pacfic Black Duck	18	31	9	4	Both	3	On Shore	1
+COLBURG Lake	22	10.56	Pacfic Black Duck	5	47	11	11	Towards	3	On Shore	1
+COLBURG Lake	22	10.56	Pacfic Black Duck	2	30	22	16	Away	16	On Shore	8
+CONNEWARRE Lake (North)	0	0	Pacfic Black Duck	1	125	125	121	Away	121	In Water	120
+DENYER Reserve	24	36	Pacfic Black Duck	6	28	27	27	Towards	4	In Water	12
+DENYER Reserve	24	36	Pacfic Black Duck	2	63	62	61	Towards	8	In Water	9
+EDWARDES Lake	57	38	Pacfic Black Duck	5	21	11	5	Towards	0.5	On Shore	2
+EDWARDES Lake	57	38	Pacfic Black Duck	1	30	30	25	Towards	9	On Shore	0.5
+EDWARDES Lake	57	38	Pacfic Black Duck	9	33	33	32	Towards	2	In Water	11
+EEL RACE Drain	1	2	Pacfic Black Duck	3	35	35	35	Towards	5	In Water	3
+EMERALD GOLF CLUB Lake	0	0	Pacfic Black Duck	2	25	25	25	Towards	2	In Water	2
+EMERALD Lake	52	41.6	Pacfic Black Duck	2	13	4	3	Away	3	On Shore	1
+EMERALD Lake	52	41.6	Pacfic Black Duck	4	23	6	4	Away	4	On Shore	2
+EMERALD Lake	52	41.6	Pacfic Black Duck	1	16	9	5	Away	5	In Water	1
+FLORA AND FAUNA Reserve	0	0	Pacfic Black Duck	6	82	72	72	Away	72	In Water	25
+FROG HOLLOW Reserve	44	26.4	Pacfic Black Duck	2	36	36	36	Towards	4	On Shore	1
+FROG HOLLOW Reserve	44	26.4	Pacfic Black Duck	2	36	36	36	Towards	5	In Water	30
+FROG HOLLOW Reserve	44	26.4	Pacfic Black Duck	6	56	56	56	Towards	6	In Water	2
+FROG HOLLOW Reserve	44	26.4	Pacfic Black Duck	22	60	58	58	Towards	4	In Water	3
+FROG HOLLOW Reserve	44	26.4	Pacfic Black Duck	8	76	74	74	Towards	4	In Water	3
+GATEWAY Sanctuary	12	15.65217391	Pacfic Black Duck	3	62	39	37	Towards	3	In Water	0.5
+HAMPTON PARK Wetlands	31	24.8	Pacfic Black Duck	11	68	43	39	Towards	6	In Water	3
+HUNTERS ROAD Wetland	2	4	Pacfic Black Duck	2	37	37	37	Towards	1	In Water	37
+HUNTERS ROAD Wetland	2	4	Pacfic Black Duck	5	48	48	48	Towards	2	In Water	48
+HUNTERS ROAD Wetland	2	4	Pacfic Black Duck	4	142	142	142	Towards	3	In Water	142
+HUNTINGDALE Flood Retarding Basin	20	17.14285714	Pacfic Black Duck	1	16	12	12	Towards	4	In Water	12
+HUNTINGDALE Flood Retarding Basin	20	17.14285714	Pacfic Black Duck	2	59	50	49	Towards	46	In Water	18
+JACK ROPER Reserve	2	4	Pacfic Black Duck	9	35	18	11	Both	13	In Water	2
+JACK ROPER Reserve	2	4	Pacfic Black Duck	8	28	20	12	Away	12	On Margin	0.2
+JACK ROPER Reserve	2	4	Pacfic Black Duck	2	43	43	43	Towards	6	In Water	5
+JELLS Park	58	38.66666667	Pacfic Black Duck	2	34	19	10	Away	10	In Water	0.5
+JELLS Park	58	38.66666667	Pacfic Black Duck	6	49	47	45	Towards	5	In Water	50
+JONES CREEK Wetland	37	44.4	Pacfic Black Duck	4	40	24	22	Towards	8	In Water	15
+JONES CREEK Wetland	37	44.4	Pacfic Black Duck	5	45	36	36	Away	36	On Shore	5
+JONES CREEK Wetland	37	44.4	Pacfic Black Duck	8	48	46	46	Towards	6	In Water	38
+KARRAROCK Park	84	28	Pacfic Black Duck	9	48	8	5	Towards	3	In Water	2
+KARRAROCK Park	84	28	Pacfic Black Duck	2	20	13	13	Away	13	On Margin	0.2
+KOROROIT Creek FORD	3	6	Pacfic Black Duck	3	53	32	17	Towards	14	In Water	5
+Lake VICTORIA (EMILY STREET)	1	2.4	Pacfic Black Duck	2	22	21	21	Towards	6	In Water	15
+LAKESIDE Lake	118	83.29411765	Pacfic Black Duck	7	22	22	22	Towards	4	In Water	2
+LAKESIDE Lake	118	83.29411765	Pacfic Black Duck	6	33	33	33	Towards	2	In Water	8
+LAKEWOOD Lakes	4	8	Pacfic Black Duck	2	12	12	12	Towards	6	In Water	10
+LAKEWOOD Lakes	4	8	Pacfic Black Duck	2	77	76	61	Away	61	On Shore	6
+LANDCOX Park	17	51	Pacfic Black Duck	2	16	16	16	Towards	8	On Shore	0.5
+LANDCOX Park	17	51	Pacfic Black Duck	2	26	26	26	Towards	2	On Margin	0.2
+LANDCOX Park	17	51	Pacfic Black Duck	17	26	26	26	Towards	7	In Water	9
+LAVERTON Creek (Mouth)	7	12	Pacfic Black Duck	2	32	24	20	Away	20	In Water	10
+LILYDALE Lake	235	108.4615385	Pacfic Black Duck	1	28	25	8	Towards	1.5	In Water	8
+LILYDALE Lake	235	108.4615385	Pacfic Black Duck	2	15	15	15	Towards	1	In Water	20
+LOGAN Lake	58	43.5	Pacfic Black Duck	4	23	23	23	Towards	5	In Water	4
+LOGAN Lake	58	43.5	Pacfic Black Duck	1	24	24	24	Towards	2	On Shore	8
+LOGAN Lake	58	43.5	Pacfic Black Duck	1	35	34	34	Towards	1	In Water	34
+LORNE Lake Reserve	4	3.692307692	Pacfic Black Duck	1	12	11	7	Away	7	In Water	3
+LORNE Lake Reserve	4	3.692307692	Pacfic Black Duck	2	37	19	15	Away	15	In Water	9
+LYSTERFEILD Lake	26	19.5	Pacfic Black Duck	8	29	24	2	Away	2	On Margin	0.2
+LYSTERFEILD Lake	26	19.5	Pacfic Black Duck	4	19	14	11	Away	11	In Water	2
+LYSTERFEILD Lake	26	19.5	Pacfic Black Duck	2	22	17	12	Away	12	On Shore	12.5
+McCLOUD'S Waterhole	0	0	Pacfic Black Duck	2	27	27	23	Away	23	In Water	8
+MELBOURNE WATER Wetlands	0	0	Pacfic Black Duck	2	21	11	10	Away	10	On Shore	1
+MELBOURNE WATER Wetlands	0	0	Pacfic Black Duck	2	37	36	36	Towards	31	In Water	31
+MELBOURNE WATER Wetlands	0	0	Pacfic Black Duck	2	88	87	87	Towards	12	In Water	86
+MILLS Park	31	17.71428571	Pacfic Black Duck	2	28	20	20	Away	20	In Water	6
+MILLS Park	31	17.71428571	Pacfic Black Duck	3	29	27	27	Towards	6	In Water	2
+MILLS Park	31	17.71428571	Pacfic Black Duck	8	38	38	38	Towards	2	In Water	38
+MORNINGTON CIVIC Reserve	22	26.4	Pacfic Black Duck	2	21	16	16	Both	11	On Margin	0.2
+MORNINGTON CIVIC Reserve	22	26.4	Pacfic Black Duck	11	49	25	23	Away	23	On Shore	32
+NAMATJIRA Lake	34	40.8	Pacfic Black Duck	2	28	28	28	Towards	10	In Water	7
+NAMATJIRA Lake	34	40.8	Pacfic Black Duck	5	62	62	62	Towards	3	In Water	7
+NARR-MAEN Wetlands	6	7.2	Pacfic Black Duck	2	27	25	9	Away	9	On Margin	0.2
+NARR-MAEN Wetlands	6	7.2	Pacfic Black Duck	3	54	45	25	Towards	5	In Water	22
+NEWPORT Lakes	46	18.4	Pacfic Black Duck	2	26	23	9	Towards	2	In Water	5
+NEWPORT Lakes	46	18.4	Pacfic Black Duck	1	16	13	10	Away	10	In Water	7
+NEWPORT Lakes	46	18.4	Pacfic Black Duck	2	18	13	11	Away	11	In Water	10
+NEWPORT Lakes	46	18.4	Pacfic Black Duck	2	47	23	21	Towards	34	In Water	15
+NEWPORT Lakes	46	18.4	Pacfic Black Duck	4	33	33	33	Towards	7	On Margin	0
+ORNAMENTAL Lake	198	148.5	Pacfic Black Duck	2	23	22	12	Towards	4	In Water	6
+ORNAMENTAL Lake	198	148.5	Pacfic Black Duck	1	36	35	27	Towards	26	In Water	5
+QUEENS Park	70	105	Pacfic Black Duck	2	13	7	6	Both	4	In Water	5
+QUEENS Park	70	105	Pacfic Black Duck	2	22	22	22	Towards	0.5	In Water	12
+QUEENS Park	70	105	Pacfic Black Duck	7	30	30	30	Towards	2	In Water	25
+RIFLE RANGE South	5	2.307692308	Pacfic Black Duck	6	9	8	6	Away	6	On Shore	0.5
+RIFLE RANGE South	5	2.307692308	Pacfic Black Duck	1	33	19	18	Away	18	On Shore	0.5
+RIFLE RANGE South	5	2.307692308	Pacfic Black Duck	5	25	21	18	Away	18	On Margin	0.5
+RINGWOOD Lake	27	32.4	Pacfic Black Duck	31	35	21	10	Towards	6	In Water	3
+RINGWOOD Lake	27	32.4	Pacfic Black Duck	4	32	32	32	Towards	2	In Water	3
+SANCTUARY Lakes	41	8.482758621	Pacfic Black Duck	7	50	10	3	Towards	5	On Shore	0.5
+SANCTUARY Lakes	41	8.482758621	Pacfic Black Duck	3	30	30	30	Towards	2	In Water	5
+SANCTUARY Lakes	41	8.482758621	Pacfic Black Duck	2	45	36	32	Away	32	In Water	5
+SANDHURST Lakes	1	1.333333333	Pacfic Black Duck	2	15	11	2	Towards	8	On Shore	0.5
+SANDHURST Lakes	1	1.333333333	Pacfic Black Duck	12	9	9	9	Towards	2	In Water	2
+SANDHURST Lakes	1	1.333333333	Pacfic Black Duck	2	14	14	14	Towards	7	In Water	1
+SANDHURST Lakes	1	1.333333333	Pacfic Black Duck	3	63	63	63	Towards	2	On Shore	0.5
+SEAFORD Wetlands	2	6	Pacfic Black Duck	9	24	7	3	Towards	4	In Water	2
+SHANKLAND Reserve	0	0	Pacfic Black Duck	2	15	12	12	Both	6	On Margin	0.2
+SHANKLAND Reserve	0	0	Pacfic Black Duck	2	34	33	33	Towards	4	In Water	16
+SHEARWATER Meadow	11	18.85714286	Pacfic Black Duck	2	63	62	62	Towards	8	In Water	52
+ST KILDA BOTANICAL Gardens	31	74.4	Pacfic Black Duck	3	24	24	24	Towards	5	In Water	3
+ST KILDA BOTANICAL Gardens	31	74.4	Pacfic Black Duck	2	26	26	26	Towards	1.5	On Shore	2
+ST LEONARDS Lake	18	18	Pacfic Black Duck	1	17	11	7	Both	3	On Shore	5
+STATION Waters	27	40.5	Pacfic Black Duck	6	46	45	45	Towards	6	In Water	10
+STATION Waters	27	40.5	Pacfic Black Duck	2	51	49	49	Towards	4	In Water	38
+STATION Waters	27	40.5	Pacfic Black Duck	2	86	85	85	Towards	2	On Margin	0.2
+SUTTON Lake	47	29.68421053	Pacfic Black Duck	2	6	6	5	Away	5	On Shore	0.5
+SUTTON Lake	47	29.68421053	Pacfic Black Duck	2	12	10	7	Away	7	On Shore	0.5
+SUTTON Lake	47	29.68421053	Pacfic Black Duck	3	43	21	7	Both	7	On Shore	2
+SUTTON Lake	47	29.68421053	Pacfic Black Duck	1	13	10	9	Away	9	On Shore	0.5
+SUTTON Lake	47	29.68421053	Pacfic Black Duck	3	34	12	9	Away	9	On Shore	0.5
+TATTERSON Lake	29	18.31578947	Pacfic Black Duck	2	60	5	5	Towards	4	In Water	5
+TATTERSON Lake	29	18.31578947	Pacfic Black Duck	2	25	25	25	Towards	12	In Water	17
+TATTERSON Lake	29	18.31578947	Pacfic Black Duck	1	30	30	30	Towards	12	In Water	1
+TAYLORS Lakes	36	24	Pacfic Black Duck	3	34	31	31	Towards	8	In Water	28
+TAYLORS Lakes	36	24	Pacfic Black Duck	2	77	76	76	Towards	3	On Shore	1
+THE BRIARS Historical Park	0	0	Pacfic Black Duck	2	35	35	22	Away	22	In Water	25
+TIRHARUAN Lake	26	31.2	Pacfic Black Duck	9	34	21	7	Away	7	On Shore	30
+TIRHARUAN Lake	26	31.2	Pacfic Black Duck	1	27	23	17	Away	17	On Shore	25
+TIRHARUAN Lake	26	31.2	Pacfic Black Duck	4	29	29	29	Towards	4	In Water	1
+TROUPS CREEK Wetlands	5	2.4	Pacfic Black Duck	2	92	92	74	Away	74	In Water	65
+TROUPS CREEK Wetlands (North)	16	16	Pacfic Black Duck	3	51	27	19	Towards	14	In Water	22
+WATERDEGE WAY Lake	13	26	Pacfic Black Duck	3	32	32	32	Towards	6	In Water	26
+WATERDEGE WAY Lake	13	26	Pacfic Black Duck	8	52	52	52	Towards	6	In Water	47
+WENDOUREE Lake	131	87.33333333	Pacfic Black Duck	2	19	7	7	Towards	4	In Water	2
+WENDOUREE Lake	131	87.33333333	Pacfic Black Duck	1	28	19	15	Away	15	On Shore	1
+WENDOUREE Lake	131	87.33333333	Pacfic Black Duck	5	36	34	30	Towards	5	In Water	3
+WESTERN TREATMENT PLANT (Borrie)	0	0	Pacfic Black Duck	4	98	96	85	Away	85	In Water	70
+WESTERN TREATMENT PLANT (Mid)	0	0	Pacfic Black Duck	3	127	127	127	Away	127	In Water	10
+WESTERN TREATMENT PLANT (North)	0	0	Pacfic Black Duck	1	66	65	60	Away	60	In Water	42
+WESTERN TREATMENT PLANT (North)	0	0	Pacfic Black Duck	8	100	94	93	Away	93	In Water	15
+WESTERN TREATMENT PLANT (North)	0	0	Pacfic Black Duck	16	162	162	114	Away	114	On Shore	1
+YAMMERBOOK NATURE Reserve	0.8	2.4	Pacfic Black Duck	2	19	16	16	Both	14.5	In Water	4
+ALBERT Park	79	30.58064516	Purple Swamphen	2	39	8	2	Both	1	In Water	0.5
+ALBERT Park	79	30.58064516	Purple Swamphen	3	30	26	22	Towards	4	On Shore	12
+ALBERT Park	79	30.58064516	Purple Swamphen	3	46	43	37	Towards	0	On Shore	10
+BEGOLA Wetlands	5	7.692307692	Purple Swamphen	3	38	8	3	Away	3	On Shore	12
+BERWICK Springs	44	25.14285714	Purple Swamphen	2	36	27	13	Away	13	On Shore	14
+BERWICK Springs	44	25.14285714	Purple Swamphen	5	33	32	26	Away	26	On Shore	12
+BERWICK Springs	44	25.14285714	Purple Swamphen	4	40	38	31	Away	31	On Shore	6
+BLUE WATERS Lake	30	17.14285714	Purple Swamphen	1	43	21	10	Towards	3	On Shore	8
+BLUE WATERS Lake	30	17.14285714	Purple Swamphen	1	31	24	12	Away	12	On Shore	0.5
+BLUE WATERS Lake	30	17.14285714	Purple Swamphen	1	56	27	23	Towards	2	On Shore	2
+BLUE WATERS Lake	30	17.14285714	Purple Swamphen	1	37	37	25	Away	25	On Shore	2
+BRODIES Lakes	0	0	Purple Swamphen	3	39	39	39	Towards	7	On Shore	16
+BRODIES Lakes	0	0	Purple Swamphen	3	65	62	54	Away	54	On Shore	36
+BUNDRAP Park	34	27.2	Purple Swamphen	1	36	36	36	Towards	7	On Margin	0.2
+CAIRNLEA Lake	33	36	Purple Swamphen	1	32	23	4	Away	4	In Water	2
+CANDLEBARK Walk	18	19.63636364	Purple Swamphen	1	11	11	11	Towards	4	In Water	3
+CANDLEBARK Walk	18	19.63636364	Purple Swamphen	3	74	55	23	Both	3	On Shore	4
+CARDINA Lake	11	14.66666667	Purple Swamphen	2	49	47	24	Away	24	On Shore	25
+CARDINA Lake	11	14.66666667	Purple Swamphen	2	65	64	37	Away	37	On Shore	20
+CAROLINE Lake	73	58.4	Purple Swamphen	1	6	6	4	Towards	2	In Water	4
+CARRIBBEAN Lake	0	0	Purple Swamphen	3	29	21	16	Away	16	In Water	3
+CARRIBBEAN Lake	0	0	Purple Swamphen	1	50	41	31	Away	31	On Shore	15
+CARRIBBEAN Lake	0	0	Purple Swamphen	6	70	60	51	Away	51	On Shore	25
+CHERRY Lake	32	27.42857143	Purple Swamphen	4	42	21	8	Towards	1.5	On Margin	0.2
+CHERRY Lake	32	27.42857143	Purple Swamphen	1	29	29	19	Away	19	On Margin	0.2
+COLBURG Lake	22	10.56	Purple Swamphen	1	20	15	7	Away	7	On Shore	13
+DENYER Reserve	24	36	Purple Swamphen	2	35	19	11	Away	11	On Shore	2
+DENYER Reserve	24	36	Purple Swamphen	3	49	41	32	Away	32	In Water	2
+DEVILBEND Reservoir (North)	1	0.413793103	Purple Swamphen	4	26	19	14	Away	14	On Shore	0.5
+EDWARDES Lake	57	38	Purple Swamphen	2	22	21	10	Away	10	On Shore	0.5
+EDWARDES Lake	57	38	Purple Swamphen	5	52	36	14	Towards	2	On Shore	7
+EDWARDES Lake	57	38	Purple Swamphen	4	25	25	25	Towards	0.3	On Shore	7
+EDWARDES Lake	57	38	Purple Swamphen	2	56	38	28	Away	28	On Shore	5
+EMERALD GOLF CLUB Lake	0	0	Purple Swamphen	4	18	18	18	Towards	3	On Shore	7
+EMERALD Lake	52	41.6	Purple Swamphen	3	21	13	11	Away	11	In Water	25
+EMERALD Lake	52	41.6	Purple Swamphen	3	18	18	18	Towards	3	On Shore	4
+EMERALD Lake	52	41.6	Purple Swamphen	1	19	19	19	Towards	9	On Shore	1.5
+FROG HOLLOW Reserve	44	26.4	Purple Swamphen	2	28	28	19	Away	19	In Water	6
+FROG HOLLOW Reserve	44	26.4	Purple Swamphen	4	80	59	51	Away	51	On Shore	2
+FROG HOLLOW Reserve	44	26.4	Purple Swamphen	8	94	89	89	Away	89	On Shore	10
+GATEWAY Sanctuary	12	15.65217391	Purple Swamphen	2	24	18	16	Away	16	On Shore	2
+GATEWAY Sanctuary	12	15.65217391	Purple Swamphen	8	69	42	23	Towards	8	On Shore	3
+GATEWAY Sanctuary	12	15.65217391	Purple Swamphen	2	42	42	34	Away	34	In Water	0.5
+HAMPTON PARK Wetlands	31	24.8	Purple Swamphen	2	103	67	45	Away	45	On Shore	10
+HUNTERS ROAD Wetland	2	4	Purple Swamphen	1	61	61	61	Towards	6	On Shore	0.5
+HUNTINGDALE Flood Retarding Basin	20	17.14285714	Purple Swamphen	3	54	32	30	Away	30	On Shore	15
+HUNTINGDALE Flood Retarding Basin	20	17.14285714	Purple Swamphen	2	57	57	48	Away	48	In Water	16
+HUNTINGDALE Flood Retarding Basin	20	17.14285714	Purple Swamphen	1	71	66	61	Away	61	On Shore	5
+JACK ROPER Reserve	2	4	Purple Swamphen	1	34	20	17	Away	17	On Shore	7
+JELLS Park	58	38.66666667	Purple Swamphen	2	14	8	4	Away	4	On Shore	15
+JELLS Park	58	38.66666667	Purple Swamphen	1	9	9	9	Towards	2	On Shore	3
+JELLS Park	58	38.66666667	Purple Swamphen	1	26	19	13	Away	13	On Shore	23
+JELLS Park	58	38.66666667	Purple Swamphen	3	24	24	24	Towards	11	On Shore	10
+JONES CREEK Wetland	37	44.4	Purple Swamphen	14	35	34	34	Towards	3	On Shore	8
+JONES CREEK Wetland	37	44.4	Purple Swamphen	8	44	35	35	Away	35	On Shore	5
+KARRAROCK Park	84	28	Purple Swamphen	1	30	18	6	Away	6	On Shore	10
+KARRAROCK Park	84	28	Purple Swamphen	3	39	27	12	Towards	11	On Shore	15
+KARRAROCK Park	84	28	Purple Swamphen	4	74	15	12	Away	12	On Shore	23
+KARRAROCK Park	84	28	Purple Swamphen	2	49	37	17	Away	17	On Shore	20
+KARRAROCK Park	84	28	Purple Swamphen	1	35	30	26	Away	26	On Shore	20
+LAKESIDE Lake	118	83.29411765	Purple Swamphen	2	49	18	12	Towards	1	On Shore	7
+LAKESIDE Lake	118	83.29411765	Purple Swamphen	4	18	18	18	Towards	1	On Shore	3
+LAKESIDE Lake	118	83.29411765	Purple Swamphen	1	20	20	20	Towards	10	On Shore	15
+LAKESIDE Lake	118	83.29411765	Purple Swamphen	4	29	29	29	Towards	2	On Margin	0.2
+LAKEWOOD Lakes	4	8	Purple Swamphen	1	30	29	24	Away	24	In Water	10
+LAKEWOOD Lakes	4	8	Purple Swamphen	3	57	56	29	Away	29	On Shore	4
+LAKEWOOD Lakes	4	8	Purple Swamphen	5	37	35	35	Away	35	On Shore	6
+LAVERTON Creek (Mouth)	7	12	Purple Swamphen	2	35	27	24	Away	24	In Water	1
+LILYDALE Lake	235	108.4615385	Purple Swamphen	1	19	17	6	Away	6	On Shore	5
+LILYDALE Lake	235	108.4615385	Purple Swamphen	1	12	9	7	Away	7	On Shore	6
+LILYDALE Lake	235	108.4615385	Purple Swamphen	6	23	20	18	Away	18	On Shore	7
+LILYDALE Lake	235	108.4615385	Purple Swamphen	2	27	27	18	Away	18	On Shore	6
+LILYDALE Lake	235	108.4615385	Purple Swamphen	1	39	38	18	Away	18	On Shore	11
+LILYDALE Lake	235	108.4615385	Purple Swamphen	3	25	23	20	Away	20	On Shore	3
+LOGAN Lake	58	43.5	Purple Swamphen	4	17	16	14	Towards	2	In Water	5
+LOGAN Lake	58	43.5	Purple Swamphen	4	28	28	28	Towards	3	In Water	28
+LOGAN Lake	58	43.5	Purple Swamphen	2	28	28	28	Towards	6	On Shore	2
+LOGAN Lake	58	43.5	Purple Swamphen	4	44	43	43	Towards	12	On Shore	6
+LOGAN Lake	58	43.5	Purple Swamphen	2	44	44	44	Towards	3	On Shore	5
+LORNE Lake Reserve	4	3.692307692	Purple Swamphen	1	33	31	14	Away	14	On Shore	6
+LORNE Lake Reserve	4	3.692307692	Purple Swamphen	4	59	43	39	Away	39	On Shore	9
+LYSTERFEILD Lake	26	19.5	Purple Swamphen	2	22	17	12	Away	12	On Shore	12
+LYSTERFEILD Lake	26	19.5	Purple Swamphen	4	31	23	14	Away	14	On Shore	50
+LYSTERFEILD Lake	26	19.5	Purple Swamphen	4	28	26	21	Away	21	On Shore	3
+MANNA GUM Waters	0	0	Purple Swamphen	1	33	16	10	Away	10	In Water	2
+MANNA GUM Waters	0	0	Purple Swamphen	3	18	17	12	Away	12	In Water	3
+MANNA GUM Waters	0	0	Purple Swamphen	1	21	20	19	Away	19	On Shore	0.5
+McCLOUD'S Waterhole	0	0	Purple Swamphen	3	22	22	9	Away	9	On Shore	4
+McCLOUD'S Waterhole	0	0	Purple Swamphen	4	17	15	11	Away	11	In Water	4
+MELBOURNE WATER Wetlands	0	0	Purple Swamphen	2	31	31	24	Away	24	On Shore	9
+MILLS Park	31	17.71428571	Purple Swamphen	1	15	14	14	Away	14	In Water	0.5
+MILLS Park	31	17.71428571	Purple Swamphen	5	36	36	36	Towards	1	On Shore	36
+MILLS Park	31	17.71428571	Purple Swamphen	3	46	45	40	Away	40	On Shore	7
+MILLS Park	31	17.71428571	Purple Swamphen	2	64	64	64	Towards	4	On Shore	64
+NAMATJIRA Lake	34	40.8	Purple Swamphen	1	55	53	8	Away	8	In Water	5
+NAMATJIRA Lake	34	40.8	Purple Swamphen	1	22	22	16	Away	16	In Water	6
+NARR-MAEN Wetlands	6	7.2	Purple Swamphen	1	35	30	15	Towards	9	In Water	8
+NARR-MAEN Wetlands	6	7.2	Purple Swamphen	2	43	39	16	Away	16	On Shore	6
+NEWPORT Lakes	46	18.4	Purple Swamphen	1	5	4.5	2	Towards	2	On Margin	0
+NEWPORT Lakes	46	18.4	Purple Swamphen	1	8	8	8	Towards	4	On Shore	0.5
+NEWPORT Lakes	46	18.4	Purple Swamphen	1	23	23	23	Towards	3	On Shore	0.3
+NEWPORT Lakes	46	18.4	Purple Swamphen	1	25	25	25	Towards	2	On Shore	10
+NEWPORT Lakes	46	18.4	Purple Swamphen	1	43	37	35	Away	35	On Shore	10
+ORNAMENTAL Lake	198	148.5	Purple Swamphen	3	16	14	5	Towards	0.5	On Shore	11
+ORNAMENTAL Lake	198	148.5	Purple Swamphen	1	22	21	21	Towards	2	On Shore	5
+PABLOO AVENUE Wetland	2	4.8	Purple Swamphen	1	32	14	8	Away	8	In Water	2
+PABLOO AVENUE Wetland	2	4.8	Purple Swamphen	1	28	26	26	Away	26	On Shore	3
+POINT LONSDALE Reserve	1	2.4	Purple Swamphen	1	11	11	11	Towards	4	In Water	9
+POINT LONSDALE Reserve	1	2.4	Purple Swamphen	1	18	17	17	Towards	4	In Water	17
+POINT LONSDALE Reserve	1	2.4	Purple Swamphen	1	31	31	27	Away	27	On Shore	2
+REEDY Lake	0	0	Purple Swamphen	10	106	32	32	Away	32	In Water	3
+REEDY Lake	0	0	Purple Swamphen	6	149	75	75	Away	75	In Water	13
+RIFLE RANGE South	5	2.307692308	Purple Swamphen	2	18	16	12	Away	12	On Shore	1
+RIFLE RANGE South	5	2.307692308	Purple Swamphen	1	38	29	22	Away	22	On Shore	3
+RIFLE RANGE South	5	2.307692308	Purple Swamphen	2	39	39	28	Away	28	On Shore	10
+RIFLE RANGE South	5	2.307692308	Purple Swamphen	1	88	64	37	Away	37	On Land	2
+RIFLE RANGE South	5	2.307692308	Purple Swamphen	4	73	57	39	Away	39	On Land	10
+RINGWOOD Lake	27	32.4	Purple Swamphen	6	7.5	7	3	Away	3	On Shore	1
+SANDHURST Lakes	1	1.333333333	Purple Swamphen	1	9	9	7	Away	7	On Shore	3
+SANDHURST Lakes	1	1.333333333	Purple Swamphen	1	20	20	20	Towards	5	On Margin	0
+SEAFORD Wetlands	2	6	Purple Swamphen	7	24	3	3	Towards	2	On Shore	7
+SHANKLAND Reserve	0	0	Purple Swamphen	1	38	37	37	Towards	11	On Shore	7
+SHEARWATER Meadow	11	18.85714286	Purple Swamphen	2	24	22	22	Towards	6	On Shore	2
+SHEARWATER Meadow	11	18.85714286	Purple Swamphen	2	40	36	36	Towards	4	On Shore	2
+ST LEONARDS Lake	18	18	Purple Swamphen	2	31	31	31	Towards	2	On Shore	12
+ST LEONARDS Lake	18	18	Purple Swamphen	1	33	33	33	Towards	6	On Shore	23
+ST LEONARDS Lake	18	18	Purple Swamphen	1	36	36	36	Towards	6	On Shore	5
+STATION Waters	27	40.5	Purple Swamphen	3	67	67	19	Away	19	On Shore	8
+STATION Waters	27	40.5	Purple Swamphen	3	27	27	27	Towards	3	On Shore	1
+SUTTON Lake	47	29.68421053	Purple Swamphen	2	35	14	3	Away	3	On Shore	7
+SUTTON Lake	47	29.68421053	Purple Swamphen	1	12	12	12	Towards	5	On Shore	6
+TATTERSON Lake	29	18.31578947	Purple Swamphen	1	40	27	15	Away	15	On Shore	7
+TATTERSON Lake	29	18.31578947	Purple Swamphen	1	24	24	18	Away	18	On Shore	2
+TATTERSON Lake	29	18.31578947	Purple Swamphen	2	40	40	40	Towards	4	On Shore	10
+TAYLORS Lakes	36	24	Purple Swamphen	1	12	9	9	Towards	1	In Water	8
+TAYLORS Lakes	36	24	Purple Swamphen	1	29	29	27	Away	27	On Shore	3
+TAYLORS Lakes	36	24	Purple Swamphen	2	32	30	30	Towards	6	On Shore	0.5
+THE BRIARS Historical Park	0	0	Purple Swamphen	2	19	17	10	Away	7	On Shore	35
+THE BRIARS Historical Park	0	0	Purple Swamphen	3	17	15	14	Away	14	On Shore	6
+TIRHARUAN Lake	26	31.2	Purple Swamphen	3	30	25	22	Away	22	On Shore	27
+TIRHARUAN Lake	26	31.2	Purple Swamphen	2	46	46	46	Towards	5	On Shore	35
+TROUPS CREEK Wetlands	5	2.4	Purple Swamphen	3	58	32	20	Away	20	In Water	9
+TROUPS CREEK Wetlands	5	2.4	Purple Swamphen	4	138	113	85	Away	75	On Shore	3
+TROUPS CREEK Wetlands (North)	16	16	Purple Swamphen	1	53	52	41	Away	41	In Water	6
+WATERDEGE WAY Lake	13	26	Purple Swamphen	2	27	27	27	Towards	3	On Shore	3
+WENDOUREE Lake	131	87.33333333	Purple Swamphen	2	50	21	21	Towards	2	On Shore	9
+WENDOUREE Lake	131	87.33333333	Purple Swamphen	6	57	23	23	Towards	2	On Shore	5
+WENDOUREE Lake	131	87.33333333	Purple Swamphen	2	50	36	28	Away	28	On Shore	3
+WESTERN TREATMENT PLANT (Borrie)	0	0	Purple Swamphen	23	56	56	43	Away	43	On Shore	25
+WESTERN TREATMENT PLANT (Borrie)	0	0	Purple Swamphen	5	96	87	68	Away	68	On Shore	6
+WESTERN TREATMENT PLANT (Mid)	0	0	Purple Swamphen	28	197	95	83	Away	83	In Water	0.5
+WESTERN TREATMENT PLANT (Mid)	0	0	Purple Swamphen	6	118	98	85	Away	85	On Shore	17
+WESTERN TREATMENT PLANT (North)	0	0	Purple Swamphen	1	36	36	24	Away	24	On Shore	0.5
+WESTERN TREATMENT PLANT (North)	0	0	Purple Swamphen	2	54	53	49	Away	49	On Shore	7
+WESTERN TREATMENT PLANT (South)	0	0	Purple Swamphen	3	84	72	61	Away	61	On Shore	48
+ALBERT Park	79	30.58064516	Silver Gull	2	35	35	31	Towards	4	On Shore	3
+ALBERT Park	79	30.58064516	Silver Gull	1	88	88	88	Towards	1	On Shore	1
+ALBERT Park	79	30.58064516	Silver Gull	2	178	178	178	Towards	1	On Shore	0.5
+ALTONA Boatramp	35	70	Silver Gull	4	49	31	21	Away	21	On Shore	2
+ALTONA Boatramp	35	70	Silver Gull	2	40	40	40	Towards	18	In Water	15
+ALTONA Foreshore	4	48	Silver Gull	3	53	53	53	Towards	2	On Shore	5
+BEGOLA Wetlands	5	7.692307692	Silver Gull	6	31	16	5	Both	2	In Water	3
+BLUE WATERS Lake	30	17.14285714	Silver Gull	2	31	31	31	Towards	4	In Water	2
+BUNDRAP Park	34	27.2	Silver Gull	26	12	10	10	Towards	2	On Shore	0.3
+BUNDRAP Park	34	27.2	Silver Gull	4	29	29	29	Towards	1	On Shore	3
+BUNDRAP Park	34	27.2	Silver Gull	7	80	80	80	Towards	7	On Shore	0.5
+CAIRNLEA Lake	33	36	Silver Gull	1	57	57	57	Towards	7	On Shore	0.5
+CAROLINE Lake	73	58.4	Silver Gull	2	33	14	14	Towards	5	In Water	20
+CAROLINE Lake	73	58.4	Silver Gull	3	44	21	28	Towards	17	In Water	3
+CHEETHAM Wetlands	0	0	Silver Gull	1	22	17	12	Away	12	In Water	3
+CHERRY Lake	32	27.42857143	Silver Gull	3	54	10	10	Towards	2	On Shore	1
+CHERRY Lake	32	27.42857143	Silver Gull	5	63	29	29	Towards	1	On Shore	3
+COLBURG Lake	22	10.56	Silver Gull	2	55	30	4	Away	4	On Shore	0.5
+COLBURG Lake	22	10.56	Silver Gull	16	31	11	8	Both	4	On Shore	6
+COLBURG Lake	22	10.56	Silver Gull	4	31	12	11	Away	11	On Shore	8
+COLBURG Lake	22	10.56	Silver Gull	17	45	38	35	Towards	3	On Shore	7
+EDWARDES Lake	57	38	Silver Gull	8	11	8	3	Away	3	On Shore	3
+EDWARDES Lake	57	38	Silver Gull	16	31	4	4	Away	4	On Shore	7
+JACK ROPER Reserve	2	4	Silver Gull	27	28	28	28	Towards	3	On Shore	1
+KARRAROCK Park	84	28	Silver Gull	18	50	38	18	Away	18	On Shore	0.3
+KOROROIT Creek FORD	3	6	Silver Gull	2	41	41	28	Away	28	In Water	1
+Lake VICTORIA (EMILY STREET)	1	2.4	Silver Gull	1	31	31	27	Towards	3	In Water	27
+LAVERTON Creek (Mouth)	7	12	Silver Gull	1	47	47	47	Towards	5	In Water	10
+LAVERTON Creek (Mouth)	7	12	Silver Gull	3	111	111	111	Towards	7	On Margin	0
+LAVERTON Creek (Mouth)	7	12	Silver Gull	2	125	125	125	Towards	6	On Margin	0
+LYSTERFEILD Lake	26	19.5	Silver Gull	2	33	19	7	Away	7	On Margin	0.2
+MANNA GUM Waters	0	0	Silver Gull	3	27	27	23	Towards	8	On Shore	13
+MO MORAN Reserve	14	42	Silver Gull	2	29	22	13	Towards	2	In Water	5
+MO MORAN Reserve	14	42	Silver Gull	1	43	21	16	Away	16	On Shore	2
+MORNINGTON CIVIC Reserve	22	26.4	Silver Gull	35	30	30	30	Towards	2	On Shore	3
+NAMATJIRA Lake	34	40.8	Silver Gull	2	28	28	14	Away	14	In Water	22
+ORNAMENTAL Lake	198	148.5	Silver Gull	2	19	14	10	Both	7	On Shore	6
+ORNAMENTAL Lake	198	148.5	Silver Gull	1	49	47	36	Towards	6	In Water	36
+POINT LONSDALE Reserve	1	2.4	Silver Gull	1	41	41	41	Towards	1.5	On Shore	1
+QUEENS Park	70	105	Silver Gull	1	26	26	26	Towards	10	On Shore	1
+QUEENS Park	70	105	Silver Gull	12	46	46	46	Towards	2	On Shore	5
+RICKETTS POINT	44	37.71428571	Silver Gull	1	75	75	75	Towards	3	On Margin	0
+RICKETTS POINT	44	37.71428571	Silver Gull	7	133	93	93	Towards	6	In Water	18
+RIFLE RANGE South	5	2.307692308	Silver Gull	4	14	9	8	Away	8	On Shore	1
+RUTHERFORD Inlet	4	16	Silver Gull	2	15	14	7	Away	7	On Shore	27
+RUTHERFORD Inlet	4	16	Silver Gull	6	43	20	11	Away	11	On Shore	8
+SANCTUARY Lakes	41	8.482758621	Silver Gull	40	49	7	5	Both	9	In Water	0.5
+SANCTUARY Lakes	41	8.482758621	Silver Gull	80	35	15	10	Towards	0.5	On Shore	2
+SANCTUARY Lakes	41	8.482758621	Silver Gull	8	20	20	20	Towards	2	On Shore	1.5
+SANCTUARY Lakes	41	8.482758621	Silver Gull	25	30	30	30	Towards	2	On Shore	1
+ST KILDA BOTANICAL Gardens	31	74.4	Silver Gull	1	25	16	10	Towards	2	On Shore	8
+ST LEONARDS Lake	18	18	Silver Gull	7	65	65	65	Towards	6	On Shore	1
+ST LEONARDS Lake	18	18	Silver Gull	8	71	71	71	Towards	3	On Shore	2
+THE POINT	2	4.615384615	Silver Gull	1	75	30	7	Both	6	In Water	2
+TOORADIN Foreshore	0	0	Silver Gull	3	10	10	10	Towards	2	On Shore	2
+TOORADIN Foreshore	0	0	Silver Gull	2	33	22	15	Away	15	In Water	1
+TOORADIN Foreshore	0	0	Silver Gull	4	43	43	43	Towards	4	On Shore	0.5
+WARMIES	10	15	Silver Gull	24	23	23	23	Towards	2	On Shore	5
+WATERDEGE WAY Lake	13	26	Silver Gull	2	35	34	34	Towards	4	On Shore	6
+WENDOUREE Lake	131	87.33333333	Silver Gull	2	45	16	16	Towards	2	On Shore	7
+WENDOUREE Lake	131	87.33333333	Silver Gull	5	55	21	21	Towards	1	On Shore	6
+WENDOUREE Lake	131	87.33333333	Silver Gull	2	61	26	26	Towards	8	On Shore	2
+WERRIBEE River (Mouth)	3	18	Silver Gull	6	18	13	8	Away	8	On Shore	20
+WESTERN TREATMENT PLANT (Borrie)	0	0	Silver Gull	6	51	42	42	Away	42	On Shore	7
+WESTERN TREATMENT PLANT (Borrie)	0	0	Silver Gull	32	107	69	65	Away	65	On Shore	3
+WESTERN TREATMENT PLANT (Mid)	0	0	Silver Gull	2	55	38	17	Away	17	On Shore	2
+WESTERN TREATMENT PLANT (Mid)	0	0	Silver Gull	1	65	62	57	Away	57	On Shore	0.5
+YAMMERBOOK NATURE Reserve	0.8	2.4	Silver Gull	5	69	67	67	Towards	4	On Shore	0.5
